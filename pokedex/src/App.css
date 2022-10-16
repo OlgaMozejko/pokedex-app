@@ -1,0 +1,10 @@
+:root {
+    --white: #FAF7F0;
+    --l-blue: #BCCEF8;
+    --d-blue: #98A8F8;
+}
+
+.App {
+    display: flex;
+    flex-direction: row;
+}
